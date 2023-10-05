@@ -1,0 +1,14 @@
+#title {
+    background-color: #FFCF96;
+}
+.container-fluid{
+    padding: 5% 15%;
+}
+h1 {
+    font-family: 'Mitr', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.nav-link {
+    color: #000000;
+}
